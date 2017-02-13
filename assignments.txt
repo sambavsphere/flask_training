@@ -1,0 +1,2 @@
+1. take the emp data from file/database. 
+Show average salary and the employees getting below average salary in the webpage with few css styling options.
