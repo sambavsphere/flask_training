@@ -3,3 +3,5 @@ Show average salary and the employees getting below average salary in the webpag
     a. Write a get api service to give employee details. Fetch the employees from file/database table.
     b. take the configuration details from configuraiton file.
 2. Write client program to fetch the details from your employee api.
+
+3. create virtual environment with latest version of flask module in your local machine
