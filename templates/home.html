@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Home</title>
+	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='main.css')}}">
+</head>
+
+<body>
+<h1>this is home file from templates</h1>
+
+<table>
+<tr>
+	{% for column in columns %}
+	<th>{{ column }}</th>
+	{% endfor %}
+</tr>
+{% for user in users %}
+  <tr>
+  {% for user_data in user %}
+  <td>{{ user_data }}</td>
+  {% endfor %}
+  </tr>
+{% endfor %}
+
+
+</body>
+</html>
