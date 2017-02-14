@@ -5,3 +5,22 @@ Show average salary and the employees getting below average salary in the webpag
 2. Write client program to fetch the details from your employee api.
 
 3. create virtual environment with latest version of flask module in your local machine
+
+4. Write a get service which sends the response based on filter parameters in get request.
+
+5. Write a post service which inserts one row in database table
+
+6. Write a put service which update the record in the database table
+
+7. Write a delete service which delete a record in the database table
+
+8. Make sure above all operations can achieve with single service method.
+
+9. Write an app to provide signup and signin functionality using sessions
+
+10. develop an admin dashboard for a table in database.
+	i.e show all records belongs to table of database in html table. Every record in the html table contains
+an options delte, update, on top of the page give an option to create a record. Make sure to provide 
+proper navigation
+
+11. Generate a bargraph and linegraph based on the database table information and show that in the webpage.
