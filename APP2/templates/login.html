@@ -1,0 +1,26 @@
+<!-- <!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+<h1>NEXIILABS</h1>
+<p>{{ message }}</p>
+<form method="POST">
+username: <input type="text" name="username"><br>
+password: <input type="password" name="password"><br>
+<input type="submit" name="submit" value="LOGIN">
+</form>
+</body>
+</html> -->
+
+{% extends "base.html" %}
+{% block body%}
+<p>{{ message }}</p>
+<form method="POST">
+username: <input type="text" name="username"><br>
+password: <input type="password" name="password"><br>
+<input type="submit" name="submit" value="LOGIN">
+</form>
+
+{% endblock %}

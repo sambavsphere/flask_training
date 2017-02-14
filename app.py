@@ -43,12 +43,13 @@ import pandas as pd
 
 app = Flask(__name__,static_folder="static1")
 
-@app.route("/users")
+@app.route("/users/")
 def users():
 	data = pd.read_csv('users.csv')
 	columns = data.columns.tolist()
 	users = data.values.tolist()
 	return render_template('home.html',users=users,columns=columns)
+	
 
 @app.route("/home")
 def home():
