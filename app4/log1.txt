@@ -1,0 +1,31 @@
+WARNING:werkzeug: * Debugger is active!
+WARNING:werkzeug: * Debugger is active!
+WARNING:werkzeug: * Debugger is active!
+WARNING:werkzeug: * Debugger is active!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 142-251-833
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\flask_training\\APP3\\app.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 142-251-833
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:render to home
+INFO:werkzeug:127.0.0.1 - - [15/Feb/2017 09:41:33] "GET / HTTP/1.1" 200 -
+INFO:root:render to home
+INFO:werkzeug:127.0.0.1 - - [15/Feb/2017 09:41:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Feb/2017 09:41:53] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 142-251-833
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:render to home
+INFO:werkzeug:127.0.0.1 - - [15/Feb/2017 09:42:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Feb/2017 09:42:31] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\flask_training\\APP3\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
